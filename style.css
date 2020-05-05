@@ -18,6 +18,10 @@ body {
 font-size: 14px;
 }
 
+.card .card-header {
+  font-weight: strong;
+}
+
   .offcanvas-collapse {
     position: fixed;
     top: 56px; /* Height of navbar */
