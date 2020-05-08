@@ -5,21 +5,23 @@ body {
 
 /* since the navbar is fixed we need to add some space to the body */
 body {
-  padding-top: 56px;
+  padding-top: 66px;
   color: ccc;
   font-family: 'Open Sans', sans-serif;
 }
 
 .bg-primary {
-  background-color: #3340b2 !important;
+  background-color: #26475F !important;
 }
+
+.navbar-brand img { width: 175px;}
 
 .table td, .table th {
 font-size: 14px;
 }
 
 .card .card-header {
-  font-weight: strong;
+  font-weight: bold !important;
 }
 
   .offcanvas-collapse {
